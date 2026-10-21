@@ -1,0 +1,8 @@
+[
+ {"nome":"Top Faixa Tomara Que Caia Com Detalhe Estrela Do Mar Verão","nome_curto":"top de verão","categoria":"moda","preco_antigo":49.90,"preco":19.90,"desconto":60,"nota":4.8,"vendidos":"3200+",
+  "imagens":["teste_ugc/top_1.jpg","teste_ugc/top_4.jpg","teste_ugc/top_8.jpg","teste_ugc/top_12.jpg"]},
+ {"nome":"Jarra de Vidro 1,5L Com Tampa de Bambu","nome_curto":"jarra de vidro","categoria":"casa","preco_antigo":89.90,"preco":34.90,"desconto":61,"nota":4.9,"vendidos":"1800+",
+  "imagens":["teste_ugc/jarra_1.jpg","teste_ugc/jarra_5.jpg","teste_ugc/jarra_9.jpg"]},
+ {"nome":"Jogo de Copos Texas 6 Peças Vidro Fumê","nome_curto":"jogo de copos","categoria":"casa","preco_antigo":79.90,"preco":39.90,"desconto":50,"nota":4.8,"vendidos":"950+",
+  "imagens":["teste_ugc/copo_2.jpg","teste_ugc/copo_7.jpg","teste_ugc/copo_12.jpg","teste_ugc/copo_18.jpg"]}
+]

@@ -1,0 +1,18 @@
+# Segredos
+.env
+tiktok_token.json
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Saídas e estado (gerados ao rodar)
+videos/
+*.log
+historico.json
+kits.json
+fundos_rodizio.json
+musicas/*.mp3
+musicas/*.wav
